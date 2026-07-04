@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Billion_Noobie.aternos.me:53648",
+    "ip": "Billion_Noobie.aternos.me",
     "port": 53648,
     "version": "",
     "try-creative": false
